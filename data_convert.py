@@ -23,8 +23,8 @@ preco= 10.9
 print(preco//2)
 '''
 
-# numero para string
-
+# int para string
+'''
 idade = 21
 nome = "luis"
 
@@ -38,3 +38,12 @@ nome = "luis"
 peso = "89.5"
 
 print(f"Ola, {nome}. Voce tem {int(idade)} anos e pesa {float(peso)} kg.")
+'''
+
+print(int(1.555555))
+
+print(float(10))
+
+print(float("10.3"))
+
+print(str(10.2))
